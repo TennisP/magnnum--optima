@@ -1,1 +1,1 @@
-# magnnum--optima
+# magnum-optima
